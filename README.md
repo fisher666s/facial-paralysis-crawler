@@ -1,4 +1,4 @@
-# Image Downloader Script
+# Facial Paralysis Image Crawler Script
 
 This Python script is designed to download all facial paralysis images from a specified webpage and save them to a local folder. It is particularly useful for scraping images from photo galleries or other image-heavy web pages.
 
